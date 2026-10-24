@@ -1,0 +1,68 @@
+body {
+    background-color: cyan;
+    font-family: "Times New Roman", serif;
+    font-size: 12px;
+}
+
+.newspaper {
+    width: 350px;
+    min-height: 400px;
+    margin: 30px auto;
+    padding: 10px;
+    background-color: cyan;
+}
+
+h1 {
+    color: blue;
+    font-family: Georgia, serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 24px;
+}
+
+h1 sup {
+    font-size: 10px;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid silver;
+}
+
+h3 {
+    text-align: center;
+    font-size: 12px;
+    margin: 15px 0;
+}
+
+.content {
+    padding: 5px;
+}
+
+h4 {
+    margin-bottom: 3px;
+}
+
+p {
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+.colors {
+    font-size: 10px;
+}
+
+.silver {
+    color: hsl(0, 0%, 75%);
+    display: inline;
+}
+
+.fuchsia {
+    color: #FF00FF;
+    display: inline;
+}
+
+.orange {
+    color: rgb(255, 140, 0);
+    display: inline;
+}
